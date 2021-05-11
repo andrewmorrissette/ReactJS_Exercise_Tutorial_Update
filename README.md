@@ -1,3 +1,9 @@
+# Exercise Application via Tutorial
+
+This app was created by following along a Youtube Tutorial, however, the tutorial was outdated and I re-created it via React Hooks and ES6
+https://www.youtube.com/watch?v=7CqJlxBYj-M
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
